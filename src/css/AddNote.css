@@ -1,0 +1,25 @@
+.add-note {
+  padding: 20px;
+  text-align: center;
+}
+
+.add-note input {
+  padding: 8px;
+  width: 60%;
+  margin-right: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.add-note button {
+  padding: 8px 16px;
+  background-color: #282c34;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.add-note button:hover {
+  background-color: #444c5a;
+}
